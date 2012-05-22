@@ -1,3 +1,20 @@
 Timer.app
 
 This sample demonstrates the following concepts: Timer, Label, Button.
+
+iOS SDK Documentation https://developer.apple.com/library/ios
+
+Different Objective Classes Used
+UIWindow - http://bit.ly/vHLLDY
+UIScreen - http://bit.ly/rBh8Rv
+UIViewController - http://bit.ly/w8j8YW
+UIColor Documentation - http://bit.ly/KJqTlX
+UIFont Documentation - http://bit.ly/u7wz8J
+
+This App focuses on:
+UILabel - http://bit.ly/rMDU9r
+UIButton - http://bit.ly/nUHOJT
+UIControlState - http://bit.ly/JlP6yu
+UIControlEvents - http://bit.ly/JlP6yu
+NSTimer - http://bit.ly/drn3iA
+

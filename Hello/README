@@ -1,3 +1,16 @@
 Hello.app
 
 This sample demonstrates the following concepts: Custom View Drawing, Touches.
+
+iOS SDK Documentation https://developer.apple.com/library/ios
+
+Different Objective Classes Used
+UIWindow - http://bit.ly/vHLLDY
+UIScreen - http://bit.ly/rBh8Rv
+UIViewController - http://bit.ly/w8j8YW
+UIColor Documentation - http://bit.ly/KJqTlX
+UIFont Documentation - http://bit.ly/u7wz8J
+
+This App focuses on:
+UIBezierPath Documentation - http://bit.ly/KwnH7I
+UIView - http://bit.ly/dqOftn

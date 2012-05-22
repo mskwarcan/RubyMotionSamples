@@ -19,6 +19,13 @@ For instance, to try the +Tweets+ sample:
 
 If you have a sample to contribute, please create a pull request!
 
+== Directory
+Each of the sample apps cover different subjects that are listed below. The list is ordered by difficulty. (Top are the most simplistic)
+
+* Timer (Timer, Label, Button)
+* Hello (Custom View Drawing, Touches)
+* Trollify (Images, Image Picker, Camera Roll, Action Sheet, Gestures)
+
 == License
 
 All samples are covered by the MIT license. Feel free to reuse the source code in your projects.
